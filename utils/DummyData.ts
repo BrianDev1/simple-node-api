@@ -28,4 +28,4 @@ export const DefaultPostsData: readonly Post[] = [{
     content: "Why did the scarecrow win an award? Because he was outstanding in his field.",
     likes: 14,
     favourites: determineFavRatio(14),
-}]
+}];
